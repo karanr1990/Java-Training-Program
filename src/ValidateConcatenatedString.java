@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.*;
 
-class ValidateConcatedString
+class ValidateConcatenatedString
 {
  // Function that returns true if str can be
 // generated from any permutation of the
